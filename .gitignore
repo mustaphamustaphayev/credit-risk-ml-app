@@ -1,0 +1,4 @@
+venv/
+__paychache__
+.pytest_cache/
+.DS_Score
